@@ -1,0 +1,8 @@
+name: BeastHunter
+version: '${project.version}'
+main: beasthunter.beasthunter.Main
+api-version: 1.18
+authors: [ ByAtlanta ]
+description: Moon Network - Remiel MMO Survival
+commands:
+  beast:
